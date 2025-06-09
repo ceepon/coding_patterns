@@ -1,4 +1,7 @@
 # coding_patterns
 ## 1.Two Pointers
-Pair Sum /n
-Triplet Sum
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|Pair sum             |
+|     2|Triplet Sum            |
+|     3|               |
