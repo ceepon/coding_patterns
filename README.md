@@ -5,3 +5,4 @@
 |     1|Pair sum             |
 |     2|Triplet Sum            |
 |     3|               |
+## 2.Hash Map and Sets
