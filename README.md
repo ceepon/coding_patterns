@@ -1,4 +1,4 @@
 # coding_patterns
 ## 1.Two Pointers
-Pair Sum
+Pair Sum\n
 Triplet Sum
